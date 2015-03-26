@@ -1,0 +1,1 @@
+This script can be used in nginx (via openresty ngx\_lua extension) to make a reasonable fast counter. Data is stored to PostgreSQL database using Redis as a read/write cache.
